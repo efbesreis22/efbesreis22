@@ -1,12 +1,3 @@
-{
-    "members": [
-        {
-            "id": "kullanici1",
-            "sifre": "123456"
-        },
-        {
-            "id": "kullanici2",
-            "sifre": "654321"
-        }
-    ]
-}
+ahmet,123456
+mehmet,abc123
+ayse,xyz789
